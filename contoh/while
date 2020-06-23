@@ -1,0 +1,27 @@
+#!/bin/bash
+bot="	farid.py
+	muhammad.py
+	erwin.py
+	johan.py
+	meeh.py
+	2-gstar.py
+	3-hau.py
+	5-gadsla.py
+	10-nakal.py
+	11-klip.py
+	12.py
+	13-joauhar.py
+	14-kalu.py
+	"
+
+i=1 
+while [ $i -le 10 ]; do
+cd $HOME
+cd uang
+cd doge
+	for run in $bot; do
+		python $run
+	done
+echo "$i";
+((i++))
+done
