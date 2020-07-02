@@ -1,0 +1,5 @@
+set hitung=0
+For /L %%l in (1,1,5) DO (
+	set /A hitung+=1
+	echo %hitung%)
+
