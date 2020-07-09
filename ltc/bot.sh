@@ -1,5 +1,7 @@
 #!/bin/bash
 bot='
++6285232909504
++6289530475171	
 +6281908230709	
 +6282142299236	
 +6287844218361	
@@ -16,7 +18,9 @@ bot='
 +6285335573673	
 +6281939571816  
 +6285755291619	
-+6287754762176'  
++6287754762176'
+#aisya
+#mbak lia
 #Rio 2 bee
 #Nurul bee
 #arik 1 bee
@@ -42,10 +46,6 @@ for ulang in $bot ; do
 	echo "$ulang"
 	sleep 1
 	python main.py $ulang doge
-	python main.py $ulang btc
-	python main.py $ulang zec
-	python main.py $ulang bch
-	python main.py $ulang ltc
 done
 
 sh bot.sh
