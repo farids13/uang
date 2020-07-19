@@ -1,45 +1,49 @@
 #!/bin/bash
 bot='
-+6285232909504
-+6289530475171	
-+6281908230709	
-+6282142299236	
++6285232909504	
 +6287844218361	
 +6287762901160	
 +6287740344734	
 +6281908230617	
++6287846167351	
 +62881026945202	
 +6285731019006	
 +6287701359057	
 +6281229084819	
 +6282333303498	
++6289530475171	
 +6285812624644	
 +6282331330243	
 +6285335573673	
++6282142299236	
 +6281939571816  
 +6285755291619	
-+6287754762176'
++6281908230709	
++6287846167356	
++6287754762176  
+'
+
 #aisya
-#mbak lia
-#Rio 2 bee
-#Nurul bee
 #arik 1 bee
 #bapak	bee
 #bapak2	bee
 #bapak3 bee
+#bapak4 bee
 #belbol1 bee
 #erwin
 #ihang	bee
 #johan
 #maylinda	bee
+#mbak lia
 #meeh
 #muhammad
 #nadia       bee
+#Nurul bee
 #om nafi
 #rio	bee
+#Rio 2 bee
+#Rio 3 bee
 #wahed1			 bee
-
-
 
 
 for ulang in $bot ; do
