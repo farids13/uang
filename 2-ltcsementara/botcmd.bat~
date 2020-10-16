@@ -1,7 +1,0 @@
-set hitung= +16123241945 +16089273201 
-Î
-(for %%a in (%hitung%) do (
-	echo %%a
-	python3 main.py %%a doge
-))
-Î
