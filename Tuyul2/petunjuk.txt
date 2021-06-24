@@ -1,0 +1,23 @@
+√Sebelum run scnya lakukan dulu command ini di termux
+
+pip install -r req.txt
+
+✅config.json
+1).isi wallet kalian
+2).isi kode reff jika ingin auto reff
+3).atur fitur sesuka hati kalian
+4).atur ua di cf_cookie dgn browser yang sama setelah mengcapture cookie pada doge.click
+5).atur limit cf sebelum sc di matikan
+6).atur delay sebelum cookie akan di ganti
+
+✅cookie.txt
+1).capture cookie menggunakan httpcanary atau aplikasi sejenisnya
+2).cookie harus mengunakan ua yang sama setelah mengcapturenya dan tidak boleh berganti jaringan
+
+note:*ua (user-agent)
+
+√Lalu perintah untuk menjalankannya
+
+python cbotv3.py +62xxxxx currency
+
+√Sekian... Salam kompak dan budayakan membaca
